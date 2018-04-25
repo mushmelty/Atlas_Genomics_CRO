@@ -104,7 +104,18 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/handcrafted_results.jpg",
-		"oF": 1,
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/interview_pathogens.jpg": {
+		"ft": 16384,
+		"iS": 137378,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/build\/img\/interview_pathogens.jpg",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
