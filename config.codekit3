@@ -16,25 +16,11 @@
 		"oAP": "\/build\/.gitignore",
 		"oF": 1
 		},
-	"\/build\/scripts\/main-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/build\/scripts\/main-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/build\/styles\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/build\/build\/styles\/main-min.css",
-		"oF": 0,
-		"oS": 3
+	"\/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/build",
+		"oF": 0
 		},
 	"\/README.md": {
 		"cB": 0,
@@ -54,6 +40,33 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/src\/files\/_layouts\/_footer.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/build\/_footer.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/src\/files\/_layouts\/_header.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/build\/_header.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/src\/files\/_layouts\/_nav.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/build\/_nav.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/src\/files\/index.pug": {
 		"cB": 0,
 		"cOD": 1,
@@ -63,12 +76,23 @@
 		"oF": 1,
 		"oS": 0
 		},
+	"\/src\/img\/atlas_logo.png": {
+		"ft": 32768,
+		"iS": 33134,
+		"oA": 0,
+		"oAP": "\/build\/img\/atlas_logo.png",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/src\/scripts\/main.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/build\/src\/scripts\/main-min.js",
+		"oAP": "\/build\/scripts\/main-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -81,7 +105,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/src\/styles\/0-plugins\/_0-plugins-dir.css",
+		"oAP": "\/build\/styles\/0-plugins\/_0-plugins-dir.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -94,7 +118,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/src\/styles\/0-plugins\/_normalize.css",
+		"oAP": "\/build\/styles\/0-plugins\/_normalize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -107,7 +131,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/src\/styles\/0-plugins\/_plugins-dir.css",
+		"oAP": "\/build\/styles\/0-plugins\/_plugins-dir.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -120,7 +144,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/src\/styles\/0-plugins\/normalize\/_import-now.css",
+		"oAP": "\/build\/styles\/0-plugins\/normalize\/_import-now.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -133,7 +157,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/src\/styles\/0-plugins\/normalize\/_normalize-mixin.css",
+		"oAP": "\/build\/styles\/0-plugins\/normalize\/_normalize-mixin.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -146,7 +170,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/src\/styles\/0-plugins\/normalize\/_variables.css",
+		"oAP": "\/build\/styles\/0-plugins\/normalize\/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -159,7 +183,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/src\/styles\/0-plugins\/normalize\/_vertical-rhythm.css",
+		"oAP": "\/build\/styles\/0-plugins\/normalize\/_vertical-rhythm.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -172,7 +196,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/src\/styles\/1-helpers\/_1-helpers-dir.css",
+		"oAP": "\/build\/styles\/1-helpers\/_1-helpers-dir.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -185,7 +209,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/src\/styles\/2-base\/_2-base-dir.css",
+		"oAP": "\/build\/styles\/2-base\/_2-base-dir.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -198,7 +222,20 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/src\/styles\/2-base\/_global.css",
+		"oAP": "\/build\/styles\/2-base\/_global.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/src\/styles\/2-base\/_variables.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/styles\/2-base\/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -211,7 +248,33 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/src\/styles\/3-layouts\/_3-layouts-dir.css",
+		"oAP": "\/build\/styles\/3-layouts\/_3-layouts-dir.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/src\/styles\/3-layouts\/_header.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/styles\/3-layouts\/_header.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/src\/styles\/3-layouts\/_nav.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/styles\/3-layouts\/_nav.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -224,7 +287,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/src\/styles\/4-modules\/_4-modules-dir.css",
+		"oAP": "\/build\/styles\/4-modules\/_4-modules-dir.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -237,7 +300,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/src\/styles\/5-templates\/_5-templates-dir.css",
+		"oAP": "\/build\/styles\/5-templates\/_5-templates-dir.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -250,7 +313,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/src\/styles\/main.css",
+		"oAP": "\/build\/styles\/main.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -262,10 +325,11 @@
 	},
 "projectAttributes": {
 	"creationDate": 546273303,
-	"displayValue": "Starter Folder Structure",
+	"displayValue": "Atlas Genomics CRO",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-leo",
-	"iconImageWasSetByUser": 0
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 546333175
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2161,7 +2225,7 @@
 		"quality": 100
 		},
 	"languageDefaultsPUG": {
-		"autoOutputAction": 1,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -2248,7 +2312,7 @@
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
-	"sourceFolderName": "source",
+	"sourceFolderName": "src",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
