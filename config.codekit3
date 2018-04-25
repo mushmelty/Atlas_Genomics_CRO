@@ -120,6 +120,39 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/src\/img\/laboratory_interior.jpg": {
+		"ft": 16384,
+		"iS": 393243,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/build\/img\/laboratory_interior.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/procartaplex_65plex.jpg": {
+		"ft": 16384,
+		"iS": 47015,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/build\/img\/procartaplex_65plex.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/procartaplex_checkpoint_panel.jpg": {
+		"ft": 16384,
+		"iS": 70174,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/build\/img\/procartaplex_checkpoint_panel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/src\/scripts\/main.js": {
 		"ft": 64,
 		"ma": 0,
@@ -295,6 +328,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/build\/styles\/3-layouts\/_article.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/src\/styles\/3-layouts\/_footer.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/styles\/3-layouts\/_footer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

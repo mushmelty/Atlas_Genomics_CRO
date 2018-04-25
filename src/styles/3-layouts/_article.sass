@@ -14,6 +14,24 @@ article
     max-width: 512px
     padding: 16px 16px 0px 16px
 
+  .product-feature
+    background-color: $light_background
+    color: $dark_text
+    margin-top: 32px
+    padding: 16px 0px 16px 0px
+
+    h3
+      font-family: $font_stack_bold
+      font-size: 1em
+      text-align: center
+      margin: 0px 16px
+
+    p
+      margin: 0px 16px 0px 16px
+
+    img
+      width: 100%
+
   h2
     font-family: $font_stack_medium-condensed
     font-size: 20px
@@ -29,7 +47,7 @@ article
     font-family: $font_stack_bold
     font-size: 1em
     display: block
-    margin-top: 24px
+    margin: 24px auto 0px auto
     text-decoration: none
 
     &:hover
@@ -42,6 +60,8 @@ article.light
     color: $dark_link
     &:hover
       color: $highlighted_dark_link
+    // &:visited
+      // color: $dark_link
 
 article.dark
   background-color: $dark_background
