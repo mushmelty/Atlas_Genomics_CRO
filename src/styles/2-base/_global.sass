@@ -1,7 +1,24 @@
 @font-face
   font-family: "HelveticaNeueLTStd-Roman"
   src: url('/fonts/HelveticaNeueLTStd-Roman.otf') format("opentype")
+@font-face
+  font-family: "HelveticaNeueLTStd-Bd"
+  src: url('../fonts/HelveticaNeueLTStd-Bd.otf') format("opentype")
+@font-face
+  font-family: "HelveticaNeueLTStd-MdCn"
+  src: url('../fonts/HelveticaNeueLTStd-MdCn.otf') format("opentype")
+@font-face
+  font-family: "HelveticaNeueLTStd-Lt"
+  src: url('../fonts/HelveticaNeueLTStd-Lt.otf') format("opentype")
 
 body
   background-color: white
   min-width: 320px
+  font-size: 14px
+
+// reset for mobile browsers
+h1, h2, h3, h4, h5, h6
+  font-weight: normal
+
+h1
+  display: none
