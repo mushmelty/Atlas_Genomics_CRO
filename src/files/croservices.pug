@@ -1,0 +1,41 @@
+doctype html
+html(lang="en")
+
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    meta(http-equiv="X-UA-Compatible", content="ie=edge")
+    title CRO Services
+    link(rel="stylesheet", href="styles/main.css")
+
+  body
+    include _layouts/_header.pug
+    include _layouts/_nav.pug
+
+    div#subsection CRO Services
+
+    article.light
+      img.hero-image(src="img/croservices-hero.jpg", alt="Close-up of MiniSeq")
+      div.text-column
+        h2 Customizable Research with Personalized Customer Service
+        p Our CRO services focus on providing our clients with unique, customizable assays that are tailored to their specific research needs. We are able to return results quickly, and our intimate knowledge of each assignment allows us to keep our customers informed every step of the way.
+
+    div.research.dark
+      h2 Research Platforms
+      ul
+        li Luminex (LX200)
+        li Quant Studio 7 Flex
+        li Illumina Miniseq
+        li Modulus™ plate reader (Turner BioSystems, Inc)
+
+    div.research.light
+      h2 Research Capabilities
+      ul
+        li Sequencing (Illumina Miniseq)
+        li Luminex based SNP detection
+        li Protein detection (Procarta single or multi-plex)
+        li RNA detection (QuantiGene single or multi-plex)
+        li Realtime PCR
+        li ProQuantum (ThermoFisher Proximity Ligation Assay)
+
+    include _layouts/_footer.pug

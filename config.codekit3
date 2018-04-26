@@ -67,6 +67,15 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/src\/files\/croservices.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/build\/croservices.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/src\/files\/index.pug": {
 		"cB": 0,
 		"cOD": 1,
@@ -87,24 +96,24 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/src\/img\/croservices-hero.jpg": {
+		"ft": 16384,
+		"iS": 193718,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/build\/img\/croservices-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/src\/img\/handcrafted_results-smaller.jpg": {
 		"ft": 16384,
 		"iS": 249956,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/handcrafted_results-smaller.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/src\/img\/handcrafted_results.jpg": {
-		"ft": 16384,
-		"iS": 351761,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/build\/img\/handcrafted_results.jpg",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -115,7 +124,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/interview_pathogens.jpg",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -126,7 +135,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/laboratory_interior.jpg",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -137,7 +146,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/procartaplex_65plex.jpg",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -148,7 +157,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/procartaplex_checkpoint_panel.jpg",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -371,6 +380,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/src\/styles\/3-layouts\/_subsection.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/styles\/3-layouts\/_subsection.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/src\/styles\/4-modules\/_4-modules-dir.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -380,6 +402,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/build\/styles\/4-modules\/_4-modules-dir.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/src\/styles\/4-modules\/_research.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/styles\/4-modules\/_research.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
