@@ -73,7 +73,7 @@
 		"ft": 512,
 		"oA": 0,
 		"oAP": "\/build\/index.html",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0
 		},
 	"\/src\/img\/atlas_logo.png": {
@@ -398,7 +398,7 @@
 		"uL": 1
 		},
 	"\/src\/styles\/main.sass": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -421,7 +421,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-leo",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 546333175
+	"lastBuiltDate": 546407563
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
