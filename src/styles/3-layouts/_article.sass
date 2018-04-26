@@ -8,6 +8,9 @@ article
     height: auto
     vertical-align: bottom
     max-width: 100%
+    min-height: 192px
+    max-height: 70vh
+    object-fit: cover
 
   .text-column
     margin: 0px auto 0px auto
@@ -22,19 +25,22 @@ article
 
     h3
       font-family: $font_stack_bold
-      font-size: 1em
+      font-size: 1.2em
       text-align: center
-      margin: 0px 16px
+      margin: 0px 24px
 
     p
       margin: 0px 16px 0px 16px
 
     img
       width: 100%
+      // max-height: 70vh
+      // object-fit: contain
 
   h2
     font-family: $font_stack_medium-condensed
-    font-size: 20px
+    // font-size: 24px
+    font-size: 1.714285714285714em
     margin-top: 8px
 
   p
@@ -67,6 +73,7 @@ article.dark
   background-color: $dark_background
   color: $light_text
   a
-    color: $light_link
+    // color: $light_link
+    color: $dark_link
     &:hover
       color: $highlighted-light_link
