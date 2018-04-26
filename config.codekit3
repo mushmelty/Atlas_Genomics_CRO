@@ -76,6 +76,15 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/src\/files\/contact.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/build\/contact.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/src\/files\/croservices.pug": {
 		"cB": 0,
 		"cOD": 1,
