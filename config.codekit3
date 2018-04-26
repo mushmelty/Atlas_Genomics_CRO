@@ -103,6 +103,17 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/src\/img\/address_map.png": {
+		"ft": 32768,
+		"iS": 104187,
+		"oA": 0,
+		"oAP": "\/build\/img\/address_map.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/src\/img\/atlas_exterior.jpg": {
 		"ft": 16384,
 		"iS": 258808,
@@ -422,6 +433,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/src\/styles\/4-modules\/_address.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/styles\/4-modules\/_address.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/src\/styles\/4-modules\/_article.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -431,6 +455,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/build\/styles\/4-modules\/_article.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/src\/styles\/4-modules\/_contact-info.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/styles\/4-modules\/_contact-info.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

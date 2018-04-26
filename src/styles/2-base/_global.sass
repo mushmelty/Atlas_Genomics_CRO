@@ -11,10 +11,25 @@
   font-family: "HelveticaNeueLTStd-Lt"
   src: url('../fonts/HelveticaNeueLTStd-Lt.otf') format("opentype")
 
+html, body
+  height: 100%
+
 body
   background-color: #fff
   min-width: 320px
   font-size: 16px
+
+  display: flex
+  flex-direction: column
+
+nav
+  flex-shrink: 0
+
+article
+  flex: 1 0 auto
+
+footer
+  flex-shrink: 0
 
 // reset for mobile browsers
 h1, h2, h3, h4, h5, h6
