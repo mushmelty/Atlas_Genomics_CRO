@@ -67,6 +67,15 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/src\/files\/aboutus.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/build\/aboutus.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/src\/files\/croservices.pug": {
 		"cB": 0,
 		"cOD": 1,
@@ -85,6 +94,17 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/src\/img\/atlas_exterior.jpg": {
+		"ft": 16384,
+		"iS": 258808,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/build\/img\/atlas_exterior.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/src\/img\/atlas_logo.png": {
 		"ft": 32768,
 		"iS": 33134,
@@ -102,7 +122,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/croservices-hero.jpg",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -328,19 +348,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/src\/styles\/3-layouts\/_article.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/build\/styles\/3-layouts\/_article.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/src\/styles\/3-layouts\/_footer.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -402,6 +409,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/build\/styles\/4-modules\/_4-modules-dir.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/src\/styles\/4-modules\/_article.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/styles\/4-modules\/_article.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/src\/styles\/4-modules\/_namecard.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/styles\/4-modules\/_namecard.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

@@ -10,7 +10,10 @@ article
     margin: 24px auto 0px auto
     text-decoration: none
 
-  .hero-image
+    &:hover
+      text-decoration: underline
+
+  img.hero-image
     width: 100%
     height: auto
     vertical-align: bottom
@@ -19,10 +22,14 @@ article
     max-height: 70vh
     object-fit: cover
 
+  img.hero-image.top-space
+    max-height: none
+    margin-top: 40px
+
   .text-column
-    margin: 0px auto 0px auto
+    margin: 0px auto
     max-width: 512px
-    padding: 16px 16px 0px 16px
+    padding: 32px 16px 0px 16px
 
   .product-feature
     background-color: $light_background
@@ -45,18 +52,22 @@ article
 article.light
   background-color: $light_background
   color: $dark_text
+
   a
     color: $dark_link
+
     &:hover
       color: $highlighted_dark_link
-    // &:visited
-      // color: $dark_link
+
+article.medium
+  background-color: $medium_background
 
 article.dark
   background-color: $dark_background
   color: $light_text
+
   a
-    // color: $light_link
     color: $dark_link
+
     &:hover
       color: $highlighted-light_link
