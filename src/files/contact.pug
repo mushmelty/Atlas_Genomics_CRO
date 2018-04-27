@@ -12,10 +12,11 @@ html(lang="en")
     include _layouts/_header.pug
     include _layouts/_nav.pug
 
-    div#subsection Contact
+    div#subsection
+      div.title Contact
 
     article.light
-      div.text-column
+      div#contacts.text-column
         div.contact-info
           p.division General Inquiries:
           div.details
@@ -24,7 +25,7 @@ html(lang="en")
             p (888) 618-9107
           p.email-address chrisdestro@atlas-genomics.com
 
-      div.text-column
+      div#address.text-column
         div.address
           p.name Atlas Genomics
           div.street-address
