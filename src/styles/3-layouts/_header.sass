@@ -1,20 +1,37 @@
 header
   width: 100%
   margin: 0px
-  padding: 8px 16px
   box-sizing: border-box
   background-color: $dark_black
+
+  .header-container
+    margin: 0 auto
+    max-width: 1024px
+    width: 100%
+    display: flex
+    flex-direction: column
+    align-items: center
 
   #logo
     height: 48px
     width: 216px
     display: block
-    margin: auto
+
 
 @media only screen and (min-width: 592px)
   header
     padding: 16px 16px
-    box-sizing: border-box
+
+    .header-container
+      flex-direction: row
+      justify-content: space-between
+
+
+@media only screen and (min-width: 1024px)
+
+  header
+    padding: 24px 24px
 
     #logo
-      display: inline-block
+      height: 71px
+      width: 318px
