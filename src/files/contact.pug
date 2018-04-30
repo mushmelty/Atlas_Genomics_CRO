@@ -16,7 +16,7 @@ html(lang="en")
       div.title Contact
 
     article.light
-      div#contacts.text-column
+      div#contacts
         div.contact-info
           p.division General Inquiries:
           div.details
@@ -26,15 +26,15 @@ html(lang="en")
             |
             a.email-address(href="mailto:chrisdestro@atlas-genomics.com") chrisdestro@atlas-genomics.com
 
-      div#address.text-column
-        div.address
-          p.name Atlas Genomics
-          div.street-address
-            p 2296 W Commodore Way #220
-            p Seattle, WA 98199
+      div#address
+        p.name Atlas Genomics
+        div.street-address
+          p 2296 W Commodore Way #220
+          p Seattle, WA 98199
 
-          |
-          |
-          img#map(src="img/address_map.png", alt="Image of Atlas Genomics location on map")
+        |
+        |
+        img#map(src="img/address_map.png", alt="Image of Atlas Genomics location on map")
+        a(href="https://goo.gl/maps/ZeyVVWm7MQD2") Get directions.
 
     include _layouts/_footer.pug

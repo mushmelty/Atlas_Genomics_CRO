@@ -377,6 +377,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/src\/styles\/2-base\/_global.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/styles\/2-base\/_global.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/src\/styles\/2-base\/_variables.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -494,7 +507,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/src\/styles\/4-modules\/_contact-info.sass": {
+	"\/src\/styles\/4-modules\/_contacts.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -502,7 +515,7 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/build\/styles\/4-modules\/_contact-info.css",
+		"oAP": "\/build\/styles\/4-modules\/_contacts.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

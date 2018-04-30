@@ -1,5 +1,10 @@
-.address
+#address
   font-family: $font_stack_roman
+  // background-color: lime
+
+  margin: 0px auto
+  max-width: 512px
+  padding: 32px 16px 16px 16px
 
   p.name
     font-size: 1.75em
@@ -12,3 +17,9 @@
   #map
     margin-top: 16px
     width: 100%
+    vertical-align: bottom
+
+@media screen and (min-width: 1024px)
+  #address
+    display: inline-block
+    margin-left: 72px
