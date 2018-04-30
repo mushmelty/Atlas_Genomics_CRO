@@ -112,6 +112,34 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/src\/fonts\/HelveticaNeueLTStd-Bd.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/fonts\/HelveticaNeueLTStd-Bd.otf",
+		"oF": 1
+		},
+	"\/src\/fonts\/HelveticaNeueLTStd-Lt.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/fonts\/HelveticaNeueLTStd-Lt.otf",
+		"oF": 1
+		},
+	"\/src\/fonts\/HelveticaNeueLTStd-MdCn.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/fonts\/HelveticaNeueLTStd-MdCn.otf",
+		"oF": 1
+		},
+	"\/src\/fonts\/HelveticaNeueLTStd-Roman.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/fonts\/HelveticaNeueLTStd-Roman.otf",
+		"oF": 1
+		},
 	"\/src\/img\/address_map.png": {
 		"ft": 32768,
 		"iS": 104187,
@@ -345,19 +373,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/build\/styles\/2-base\/_2-base-dir.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/src\/styles\/2-base\/_global.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/build\/styles\/2-base\/_global.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
