@@ -43,7 +43,6 @@ article
 
 article.light
   background-color: $light_background
-  // background-color: coral
   color: $dark_text
 
   a
@@ -67,3 +66,13 @@ article.dark
 
 article.constrained
   max-width: 1024px
+
+#careers
+  display: flex
+  flex-direction: column
+
+@media screen and (min-width: 768px)
+  #careers
+    flex-direction: column-reverse
+    align-items: center
+    padding-bottom: 0px
