@@ -28,7 +28,10 @@ Temporary Items
 .apdisk
 
 # build folder
-build/
+# build/
+
+# src folder
+src/
 
 ### Sass ###
 .sass-cache/
