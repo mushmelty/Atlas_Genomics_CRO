@@ -11,16 +11,17 @@ img.hero-image
 img.hero-image.top-space
   margin-top: 40px
 
-img.hero-image.reduces
+img.hero-image.reduces#about
   max-height: 350px
 
 @media screen and (min-width: 425px)
   img.hero-image.reduces
     width: auto
 
-
 @media screen and (min-width: 768px)
   img.hero-image.reduces
     width: 40%
-    max-height: 100%
     vertical-align: top
+
+  img.hero-image.reduces#about
+    max-height: none
