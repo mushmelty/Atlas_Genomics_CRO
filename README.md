@@ -1,2 +1,2 @@
-# Starter Folder Structure for a Pug / Sass / CodeKit Project
-This repository includes a starting folder structure for web projects that use Sass, Pug, and CodeKit build folders. This project also includes normalize.css.
+# Atlas Genomics CRO website
+This project holds all the source files that can be compiled to create the website at cro.atlas-genomics.com.
