@@ -13,20 +13,22 @@ html(lang="en")
     |
     |
     <!-- Hidden h1 text for SEO purposes -->
-    h1 Atlas Genomics, Seattle, WA provides CRO research
+    h1 Atlas Genomics, Seattle, WA
 
-    article.light
-      img.hero-image(src="img/handcrafted_results-smaller.jpg", alt="Gloved hands opening an Agilent 2000 Bioanalyzer")
+    article.light.transition
+      img.hero-image.reduces#landing-hands(src="img/handcrafted_results-smaller.jpg", alt="Gloved hands opening an Agilent 2000 Bioanalyzer")
 
-      div.text-column
+      div.text-column#landing-hands
         h2 Contract Research Organization Delivering Handcrafted Results
         p Atlas Genomics is dedicated to providing world-class research services while maintaining a close, personal relationship with our clients and partners. We offer unique, custom assays tailored to specific scientific needs — in addition to standard, off-the-shelf solutions — and we pride ourselves in returning results quickly.
         |
         |
         a(href="croservices.html") Learn more about our CRO services.
 
-    article.dark
-      img.hero-image(src="img/interview_pathogens.jpg", alt="Microscopic pathogens under high magnification")
+      img.hero-image#transition(src="img/transition_angles.png", alt="Angled transition image")
+
+    article.dark.transition
+      img.hero-image.reduces#interview(src="img/interview_pathogens.jpg", alt="Microscopic pathogens under high magnification")
 
       div.text-column
         h2 Head of Society for the Immunotherapy of Cancer Discusses Product Benefits
@@ -36,6 +38,7 @@ html(lang="en")
         a(href="https://www.thermofisher.com/us/en/home/new-ideas/life-in-the-lab/summer-2017-immuno-oncology/uncovering-checkpoint-biomarkers.html") Read the Thermo Fisher Scientific interview.
         |
         |
+      div.product-container
         div.product-feature
           h3 ProcartaPlex Human Immuno-Oncology Checkpoint Panel
           img(src="img/procartaplex_checkpoint_panel.jpg", alt="ProcartaPlex Checkpoint Panel Packaging")
@@ -46,8 +49,10 @@ html(lang="en")
           img(src="img/procartaplex_65plex.jpg", alt="Visualization of Luminex™ technology")
           p ProcartaPlex™ immunoassays are the ideal solution for assessing multiple protein biomarkers in a single sample. ProcartaPlex assays use Luminex™ xMAP technology for the multi-analyte detection of secreted proteins including cytokines, chemokines, growth factors and other proteins.
 
+      img.hero-image#transition-lower(src="img/transition_angles-white.png", alt="Angled transition image")
+
     article.light
-      img.hero-image(src="img/laboratory_interior.jpg", alt="Interior image of Atlas Genomics laboratory")
+      img.hero-image.reduces#interview(src="img/laboratory_interior.jpg", alt="Interior image of Atlas Genomics laboratory")
 
       div.text-column
         h2 Become our Partner in Research

@@ -250,6 +250,28 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/src\/img\/transition_angles-white.png": {
+		"ft": 32768,
+		"iS": 16973,
+		"oA": 0,
+		"oAP": "\/build\/img\/transition_angles-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/transition_angles.png": {
+		"ft": 32768,
+		"iS": 22172,
+		"oA": 0,
+		"oAP": "\/build\/img\/transition_angles.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/src\/scripts\/main.js": {
 		"ft": 64,
 		"ma": 0,

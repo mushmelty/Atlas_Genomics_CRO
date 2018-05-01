@@ -14,12 +14,23 @@ img.hero-image.top-space
 img.hero-image.reduces#about
   max-height: 350px
 
+img.hero-image#transition
+  display: none
+
+img.hero-image#transition-lower
+  display: none
 
 @media screen and (min-width: 425px)
   img.hero-image.reduces#about
     // width: auto
 
 @media screen and (min-width: 768px)
+  img.hero-image#transition
+    display: block
+
+  img.hero-image#transition-lower
+    display: block
+
   img.hero-image.reduces
     width: 50%
     vertical-align: top
@@ -28,3 +39,12 @@ img.hero-image.reduces#about
 
   img.hero-image.reduces#about
     max-height: none
+
+  img.hero-image.reduces#landing-hands
+    float: right
+    max-width: 100%
+    margin-bottom: 64px
+
+  img.hero-image.reduces#interview
+    max-width: none
+    width: 50%
