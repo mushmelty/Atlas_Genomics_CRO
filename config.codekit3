@@ -12,9 +12,9 @@
 	"\/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/build\/.gitignore",
-		"oF": 1
+		"oF": 0
 		},
 	"\/build": {
 		"ft": 65536,
@@ -115,30 +115,30 @@
 	"\/src\/fonts\/HelveticaNeueLTStd-Bd.otf": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/build\/fonts\/HelveticaNeueLTStd-Bd.otf",
-		"oF": 1
+		"oF": 0
 		},
 	"\/src\/fonts\/HelveticaNeueLTStd-Lt.otf": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/build\/fonts\/HelveticaNeueLTStd-Lt.otf",
-		"oF": 1
+		"oF": 0
 		},
 	"\/src\/fonts\/HelveticaNeueLTStd-MdCn.otf": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/build\/fonts\/HelveticaNeueLTStd-MdCn.otf",
-		"oF": 1
+		"oF": 0
 		},
 	"\/src\/fonts\/HelveticaNeueLTStd-Roman.otf": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/build\/fonts\/HelveticaNeueLTStd-Roman.otf",
-		"oF": 1
+		"oF": 0
 		},
 	"\/src\/img\/address_map.png": {
 		"ft": 32768,
@@ -178,7 +178,7 @@
 		"iS": 33134,
 		"oA": 0,
 		"oAP": "\/build\/img\/atlas_logo.png",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -190,7 +190,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/croservices-hero.jpg",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -201,7 +201,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/handcrafted_results-smaller.jpg",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -212,7 +212,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/interview_pathogens.jpg",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -223,7 +223,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/laboratory_interior.jpg",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -234,7 +234,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/procartaplex_65plex.jpg",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -245,7 +245,7 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/procartaplex_checkpoint_panel.jpg",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -608,7 +608,7 @@
 		"uL": 1
 		},
 	"\/src\/styles\/main.sass": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
