@@ -28,7 +28,7 @@ Temporary Items
 .apdisk
 
 # build folder
-# build/
+build/
 
 ### Sass ###
 .sass-cache/
